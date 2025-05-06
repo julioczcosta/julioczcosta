@@ -16,4 +16,4 @@ Tenho vivência em ambientes acadêmicos e corporativos, com passagens por consu
 
 ## Contato 📬
 - [LinkedIn](https://www.linkedin.com/in/julio-cezar-costa-042a43144/)
-- [Email]: [julioczts@gmail.com](mailto:julioczts@gmail.com)
+- E-mail: [julioczts@gmail.com](mailto:julioczts@gmail.com)
