@@ -11,7 +11,7 @@ Tenho vivência em ambientes acadêmicos e corporativos, com passagens por consu
 - **Análises Climáticas e Ambientais**: Processamento de imagens, dados climática 🌦️ e análise espacial
 
 ## Formação 🎓
-- **Doutorado em Geografia Física (USP)**
+- **Doutorando em Geografia Física (USP)**
 -  **Mestrado em Geografia (UFSJ)**
 
 ## Contato 📬
