@@ -13,6 +13,7 @@ Tenho vivência em ambientes acadêmicos e corporativos, com passagens por consu
 ## Formação 🎓
 - **Doutorando em Geografia Física (USP)**
 -  **Mestrado em Geografia (UFSJ)**
+-  -  **Bacharelado em Geografia (UFSJ)**
 
 ## Contato 📬
 - [LinkedIn](https://www.linkedin.com/in/julio-cezar-costa-042a43144/)
