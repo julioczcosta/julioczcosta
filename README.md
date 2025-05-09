@@ -8,7 +8,7 @@ Tenho vivência em ambientes acadêmicos e corporativos, com passagens por consu
 - **Geoprocessamento**: QGIS, ArcGIS
 - **Programação**: Python 🐍
 - **Plataformas**: Google Earth Engine 🌎
-- **Análises Climáticas e Ambientais**: Processamento de imagens, dados climática 🌦️ e análise espacial
+- **Análises Climáticas e Ambientais**: Processamento de imagens, dados climáticos 🌦️ e análise espacial
 
 ## Formação 🎓
 - **Doutorando em Geografia Física (USP)**
